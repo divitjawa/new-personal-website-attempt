@@ -1,0 +1,171 @@
+Contact
+2064728843 (Mobile)
+divit.dj@hotmail.com
+www.linkedin.com/in/divit-jawa
+(LinkedIn)
+Top Skills
+Data Analysis
+Databases
+Oracle Database
+Languages
+Hindi (Native or Bilingual)
+English (Native or Bilingual)
+Punjabi (Native or Bilingual)
+German (Limited Working)
+Certifications
+Learning React.js
+React.js Essential Training
+React.js: Building an Interface
+5G Technology Strategy: Next-
+Generation Mobile Networking
+Google Data Analytics Certificate
+Honors-Awards
+Winners: Microsoft Hack for Good
+2nd Place: Impact Innovation
+Hackathon 2019
+Best in Show: Code Day Seattle
+2017
+Divit Jawa
+Software Engineer @ Tesla
+Seattle, Washington, United States
+Summary
+SDE @ Tesla
+Skills: Typescript, R, SQL, Tableau, Python, Java, GO, JS, React.js,
+Graph QL, Firestore, Spreadsheets
+Results producing, data-oriented, fast-paced, "get-it-done" guy,
+stepping into the world of Tech.
+Strong blend of business acumen and technical expertise in the right
+mix to achieve business objectives. Solid leadership skills with the
+ability to influence and motivate toward common goals.
+Experience
+Tesla
+1 year 8 months
+Software Engineer II
+February 2025 - Present (2 months)
+Bellevue, Washington, United States
+Software Engineer
+August 2023 - Present (1 year 8 months)
+Bellevue, Washington, United States
+Building delivery and registration tools in the vehicle fulfillment team in the
+Digital Experience org.
+Navasal Inc.
+AEM Developer
+February 2023 - July 2023 (6 months)
+Seattle, Washington, United States
+Worked on AEM 6.x. Developed reusable components for AEM authors.
+Developed workflows that would trigger based on specific actions. Worked on
+supporting content authors by creating the components they needed.
+Poggio Labs
+Page 1 of 5
+Software Engineer
+April 2022 - November 2022 (8 months)
+Seattle, Washington, United States
+• Developed high-priority features for 3 customers from scratch using reusable
+schema-driven React components
+• Implemented entire frontend for a project to increase coverage of the
+product’s search feature from 30% to 80%
+• Led a project to rearchitect the product’s file-system of over 100 React
+components & schema-driven components
+• Fulfilled project management duties including delegation, regular check-ins, &
+demos; drove completion within 2 weeks
+• Front end development in React and Typescript, APIs in GraphQL, testing
+using Jest framework
+HeadLight
+Software Engineer
+September 2021 - April 2022 (8 months)
+Seattle, Washington, United States
+• Cross-team collaboration with senior engineers/UX team to work on 3
+applications to add features requested by clients
+• Replaced old client facing dashboard by using Vue.js and reduced code
+complexity and size by 60%
+• Reduced external libraries being used in new dashboard from 6 to 2 and
+number of methods from 33 to 7
+• Reduced load time for drop-downs by 70% by moving filtering from client-side
+to server-side
+University of Washington
+3 years
+Student Assistant: UW-IT
+December 2018 - September 2021 (2 years 10 months)
+Seattle, WA, United States
+Remediate pdfs, ppts, websites, and videos to make them accessible for blind
+people and to make them compliant with WCAG 2.0 regulations.
+Police Cadet
+October 2018 - May 2021 (2 years 8 months)
+Seattle, Washington, United States
+Cadet program consists of physical, mental and tactical training to handle
+challenging situations that Police officers might encounter. Also assist the local
+Page 2 of 5
+community by participating in fundraising events such as the Polar Plunge.
+Completed CPR and First Aid Course (Valid till 2021)
+Impact++ School Club
+Project Manager
+December 2020 - May 2021 (6 months)
+Seattle, Washington, United States
+• Leading a team of 5 student developers to deliver an end-to-end solution, to
+a not-for-profit organization, that will reach 500,000 families
+• Led brainstorming sessions with clients to determine product milestones and
+specifications
+• Managed agile backlog, sprints, documentation, and testing along with
+product lifecycle from idea to sunset
+Xemelgo
+Software Engineer Intern
+June 2020 - September 2020 (4 months)
+Seattle, Washington, United States
+• Developed and designed 3 features: Sorting, searching, and displaying of
+duplicate requests for an Inventory Management System
+• Implemented front end and back end for all three features, with an obsession
+to improve customer experience
+• Front end development using React, XHTML, CSS, JavaScript; worked with
+databases, code hosted on AWS
+• Worked with fast-paced and high impact teams, in typical 'startup culture',
+and produced good quality, scalable code following the latest and best coding
+practices
+Social Experiments
+Software Developer: Impact++
+October 2019 - June 2020 (9 months)
+Seattle, Washington, United States
+Worked with Microsoft in a 40-student organization at the University of
+Washington that develops software solutions for non-profits.
+• Worked on adding a feature to recognize faces in real time.
+• Fixed a bug to reduce image size to less than 6 MB for Azure and PowerBI to
+process the image
+• Fixed a bug that crashes app upon installation due to permissions being
+asked in a service instead of an activity
+Page 3 of 5
+• Team won overall best prize at Microsoft Hack for Good 2019. Worked on
+deploying a tflite model trained in MS Custom Vision, to a proof of concept
+Android App.
+https://www.youtube.com/watch?v=noC9W7CKpkU&feature=emb_title
+Paul G. Allen School of Computer Science & Engineering
+Research Assistant
+October 2018 - January 2019 (4 months)
+Greater Seattle Area
+Worked at Professor Jennifer Mankoff's make4all lab with a PhD student on a
+chrome extension named SPRITEs (used by blind people to navigate the web)
+to make it run smoother with screen readers like NVDA and JAWS.
+• Added more voice functionality like speaking out the contents of a table,
+number of images in a web page, number of tables in a web page, etc
+• Added data logging-based features such as using a map to keep track of the
+number of times a user navigates in a certain domain
+• Added a feature to remind the user if SPRITEs was turned off, based on
+domain name. So, a user would get a notification only once if they were on
+Facebook, Twitter, etc.
+• Made general improvements to the code to make it more efficient
+Delhi Public School - R. K. Puram
+Vice President: Digital Excellence
+August 2016 - March 2017 (8 months)
+New Delhi Area, India
+Organized two of Delhi's biggest symposiums for two consecutive years
+for budding photographers and movie makers, with over 1000 people in
+attendance. Sponsored by Canon.
+Education
+UW Foster School of Business
+Master of Science - MS, Information Systems · (June 2024 - June 2025)
+University of Washington
+Bachelor of Science - BS, Informatics · (2017 - June 2021)
+University of Washington Information School
+Bachelor of Science - BS, Informatics · (2017 - 2021)
+Page 4 of 5
+Delhi Public School - R. K. Puram
+High School · (2003 - 2017)
+Page 5 of 5
